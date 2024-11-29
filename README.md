@@ -1,6 +1,6 @@
-# Crypto Tracker
+# Crypto Rates
  
-## Crypto Tracker is a React, TypeScript web application that allows users to track cryptocurrency prices in real time. Built with Vite, Zustand, and Axios, this app provides real-time quotes for cryptocurrencies, including price changes, the highest and lowest prices of the day, and more.
+## Crypto Rates is a React, TypeScript web application that allows users to track cryptocurrency prices in real time. Built with Vite, Zustand, and Axios, this app provides real-time quotes for cryptocurrencies, including price changes, the highest and lowest prices of the day, and more.
 
 ## Features
 - **Reactive Interface**: Users can select cryptocurrencies and fiat currencies to view real-time prices.
@@ -14,7 +14,7 @@ Follow these steps to install and run the project locally:
 
 1. **Clone the repository**  
 ``bash
-git clone https://github.com/anabartos/crypto-tracker.git
+git clone https://github.com/anabartos/crypto-rates-react
 cd crypto-tracker
 ``
 
